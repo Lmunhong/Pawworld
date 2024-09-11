@@ -1,0 +1,562 @@
+.about-us {
+  background-color: rgba(243, 253, 232, 1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.div {
+  background-color: rgba(168, 223, 142, 1);
+  gap: 40px 45px;
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 80px;
+  font: 400 20px Darling Coffee, sans-serif;
+}
+@media (max-width: 991px) {
+  .div {
+    padding: 0 20px;
+  }
+}
+.div-2 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-2 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column {
+    width: 100%;
+  }
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-2 {
+    width: 100%;
+  }
+}
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-3 {
+    width: 100%;
+  }
+}
+.column-4 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-4 {
+    width: 100%;
+  }
+}
+.column-5 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-5 {
+    width: 100%;
+  }
+}
+.column-6 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-6 {
+    width: 100%;
+  }
+}
+.div-3 {
+  z-index: 10;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  margin: -115px 0 0 10px;
+}
+@media (max-width: 991px) {
+  .div-3 {
+    max-width: 100%;
+  }
+}
+.div-4 {
+  align-self: center;
+  display: flex;
+  width: 100%;
+  max-width: 1284px;
+  align-items: center;
+  gap: 9px;
+  flex-wrap: wrap;
+  margin-top: -70px;
+}
+@media (max-width: 991px) {
+  .div-4 {
+    max-width: 100%;
+  }
+}
+.div-5 {
+  background-color: rgba(255, 191, 191, 1);
+  border-radius: 50%;
+  align-self: start;
+  z-index: 10;
+  display: flex;
+  width: 103px;
+  flex-direction: column;
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  height: 103px;
+  margin: 72px 0 0 2px;
+  padding: 3px 3px 17px;
+  font: 400 14px Darling Coffee, sans-serif;
+  border: 3px solid rgba(255, 255, 255, 1);
+}
+@media (max-width: 991px) {
+  .div-3 {
+    margin-left: 10px;
+  }
+}
+.img {
+  aspect-ratio: 1.39;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+}
+.paw-world {
+  align-self: center;
+}
+.div-6 {
+  align-self: end;
+  display: flex;
+  margin-top: 102px;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 0;
+  width: fit-content;
+}
+@media (max-width: 991px) {
+  .div-6 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.about-us-2 {
+  color: var(--Color, #4d3117);
+  text-align: center;
+  align-self: center;
+  margin-left: 13px;
+  font: 400 48px Darling Coffee, sans-serif;
+}
+@media (max-width: 991px) {
+  .about-us-2 {
+    font-size: 40px;
+  }
+}
+.div-7 {
+  border-radius: 26px;
+  background-color: rgba(255, 229, 229, 1);
+  margin-top: 42px;
+  padding: 27px 0 0 49px;
+}
+@media (max-width: 991px) {
+  .div-7 {
+    max-width: 100%;
+    padding-left: 20px;
+    margin-top: 40px;
+  }
+}
+.div-8 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-8 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-7 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 50%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-7 {
+    width: 100%;
+  }
+}
+.div-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  color: var(--Color, #4d3117);
+  margin: 22px -307px 0 0;
+  font: 500 16px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-9 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.our-story {
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  font: 400 24px Darling Coffee, sans-serif;
+}
+.paw-world-animal-welfare-society-is-a-non-profit-animal-shelter-in-petaling-jaya-that-has-been-in-operation-since-2022-we-receive-the-surrender-of-unwanted-dogs-and-cats-which-we-will-vaccinate-deworm-neuter-spay-and-put-up-for-adoption {
+  line-height: 24px;
+  align-self: stretch;
+  margin-top: 30px;
+}
+@media (max-width: 991px) {
+  .paw-world-animal-welfare-society-is-a-non-profit-animal-shelter-in-petaling-jaya-that-has-been-in-operation-since-2022-we-receive-the-surrender-of-unwanted-dogs-and-cats-which-we-will-vaccinate-deworm-neuter-spay-and-put-up-for-adoption {
+    max-width: 100%;
+  }
+}
+.currently-there-are-over-30-dogs-and-15-cats-under-the-care-of-the-shelter-the-shelter-and-all-costs-involved-in-running-it-are-entirely-funded-by-the-generous-donations-of-the-public-as-well-as-proceeds-from-charitable-events-our-team-consists-of-four-office-staff-a-number-of-part-time-veterinarians-one-vet-assistant-seven-kennel-workers-and-one-driver {
+  line-height: 24px;
+  padding-right: 200px;
+  margin: 41px 42px 0 0;
+}
+@media (max-width: 991px) {
+  .currently-there-are-over-30-dogs-and-15-cats-under-the-care-of-the-shelter-the-shelter-and-all-costs-involved-in-running-it-are-entirely-funded-by-the-generous-donations-of-the-public-as-well-as-proceeds-from-charitable-events-our-team-consists-of-four-office-staff-a-number-of-part-time-veterinarians-one-vet-assistant-seven-kennel-workers-and-one-driver {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.column-8 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 50%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-8 {
+    width: 100%;
+  }
+}
+.img-2 {
+  aspect-ratio: 1.48;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  z-index: 10;
+  margin-right: -45px;
+}
+@media (max-width: 991px) {
+  .img-2 {
+    max-width: 100%;
+    margin-top: 27px;
+  }
+}
+.div-10 {
+  margin-top: 86px;
+  width: 100%;
+  max-width: 1168px;
+}
+@media (max-width: 991px) {
+  .div-10 {
+    max-width: 100%;
+    margin: 40px 10px 0 0;
+  }
+}
+.div-11 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-11 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-9 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 50%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-9 {
+    width: 100%;
+  }
+}
+.img-3 {
+  aspect-ratio: 2;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  border-radius: 16px;
+  flex-grow: 1;
+}
+@media (max-width: 991px) {
+  .img-3 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.column-10 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 50%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-10 {
+    width: 100%;
+  }
+}
+.we-believe-in-transparency-responsibility-and-the-power-of-education-through-advocacy-and-outreach-programs-we-promote-responsible-pet-ownership-and-highlight-the-joy-and-benefits-of-adopting-a-rescue-pet-our-commitment-extends-beyond-adoption-providing-ongoing-support-to-ensure-every-pet-and-owner-can-enjoy-a-fulfilling-life-together {
+  color: var(--Color, #4d3117);
+  text-align: left;
+  align-self: stretch;
+  margin: auto 0;
+  font: 500 16px/24px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .we-believe-in-transparency-responsibility-and-the-power-of-education-through-advocacy-and-outreach-programs-we-promote-responsible-pet-ownership-and-highlight-the-joy-and-benefits-of-adopting-a-rescue-pet-our-commitment-extends-beyond-adoption-providing-ongoing-support-to-ensure-every-pet-and-owner-can-enjoy-a-fulfilling-life-together {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-12 {
+  display: flex;
+  margin-top: 54px;
+  width: 100%;
+  max-width: 1196px;
+  gap: 40px 100px;
+  color: var(--Color, #4d3117);
+  text-align: center;
+  flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .div-12 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-13 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-13 {
+    max-width: 100%;
+  }
+}
+.div-14 {
+  background-color: rgba(255, 229, 229, 1);
+  border-radius: 50%;
+  align-self: end;
+  display: flex;
+  width: 345px;
+  max-width: 100%;
+  flex-direction: column;
+  padding: 36px 30px 53px;
+  border: 18px solid rgba(255, 191, 191, 1);
+}
+@media (max-width: 991px) {
+  .div-14 {
+    padding: 0 20px;
+  }
+}
+.vision {
+  align-self: center;
+  font: 400 24px Darling Coffee, sans-serif;
+}
+.together-we-strive-to-rescue-rehabilitate-and-rehome-pets-of-all-breeds-and-ages-each-adoption-is-a-celebration-of-new-beginnings-where-pets-find-loving-families-and-families-find-their-perfect-companions {
+  margin-top: 16px;
+  font: 500 16px/24px Inter, sans-serif;
+}
+.button {
+  all: unset;
+  display: flex;
+  flex-direction: column;
+  margin-top: 66px;
+  background-color: rgba(255, 191, 191, 1);
+  border-radius: 30px;
+  width: 243px;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 22px 0px;
+  font: 700 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .button {
+    margin-top: 40px;
+    padding: 0 20px;
+  }
+}
+.div-15 {
+  align-self: start;
+  display: flex;
+  margin-top: 12px;
+  flex-direction: column;
+  flex: 1;
+}
+@media (max-width: 991px) {
+  .div-15 {
+    max-width: 100%;
+  }
+}
+.div-16 {
+  background-color: rgba(255, 229, 229, 1);
+  border-radius: 50%;
+  display: flex;
+  width: 345px;
+  max-width: 100%;
+  flex-direction: column;
+  padding: 47px 43px 83px;
+  border: 18px solid rgba(255, 191, 191, 1);
+}
+@media (max-width: 991px) {
+  .div-16 {
+    padding: 0 20px 100px;
+  }
+}
+.mission {
+  align-self: center;
+  margin-left: 13px;
+  font: 400 24px Darling Coffee, sans-serif;
+}
+.to-connect-loving-homes-with-deserving-pets-ensuring-every-animal-gets-a-chance-to-thrive-in-a-safe-and-caring-environment {
+  margin: 36px 0 -23px;
+  font: 500 16px/24px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .to-connect-loving-homes-with-deserving-pets-ensuring-every-animal-gets-a-chance-to-thrive-in-a-safe-and-caring-environment {
+    margin-bottom: 10px;
+  }
+}
+.button-2 {
+  all: unset;
+  display: flex;
+  flex-direction: column;
+  margin-top: 66px;
+  background-color: rgba(255, 191, 191, 1);
+  border-radius: 30px;
+  align-self: end;
+  white-space: nowrap;
+  justify-content: center;
+  padding: 22px 64px;
+  font: 700 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .button-2 {
+    margin-top: 40px;
+    white-space: initial;
+    padding: 0 20px;
+  }
+}
+.div-17 {
+  background-color: rgba(168, 223, 142, 1);
+  display: flex;
+  margin-top: 95px;
+  flex-direction: column;
+  align-items: center;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  padding: 41px 70px 22px;
+  font: 400 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-17 {
+    max-width: 100%;
+    margin: 40px 3px 0 0;
+    padding: 0 20px;
+  }
+}
+.div-18 {
+  display: flex;
+  width: 100%;
+  max-width: 989px;
+  gap: 40px 98px;
+  flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .div-18 {
+    max-width: 100%;
+  }
+}
+.div-19 {
+  align-self: start;
+  display: flex;
+  gap: 40px 64px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+@media (max-width: 991px) {
+  .div-19 {
+    max-width: 100%;
+  }
+}
+.div-20 {
+  display: flex;
+  gap: 40px 42px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+.get-involved {
+  align-self: start;
+  flex-basis: auto;
+}
+.div-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+}
+@media (max-width: 991px) {
+  .div-21 {
+    white-space: initial;
+  }
+}
+.pawworld-gmail-com {
+  align-self: stretch;
+  margin-top: 24px;
+}

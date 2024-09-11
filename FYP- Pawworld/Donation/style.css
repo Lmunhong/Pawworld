@@ -1,0 +1,757 @@
+      .donation {
+        background-color: rgba(243, 253, 232, 1);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+      .div {
+        background-color: rgba(168, 223, 142, 1);
+        gap: 40px 45px;
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        padding: 16px 80px;
+        font: 400 20px Darling Coffee, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div {
+          padding: 0 20px;
+        }
+      }
+      .div-2 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-2 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column {
+          width: 100%;
+        }
+      }
+      .column-2 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-2 {
+          width: 100%;
+        }
+      }
+      .column-3 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-3 {
+          width: 100%;
+        }
+      }
+      .column-4 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-4 {
+          width: 100%;
+        }
+      }
+      .column-5 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-5 {
+          width: 100%;
+        }
+      }
+      .column-6 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-6 {
+          width: 100%;
+        }
+      }
+      .div-3 {
+        z-index: 10;
+        display: flex;
+        margin-top: -51px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        padding: 0 80px 0 10px;
+      }
+      @media (max-width: 991px) {
+        .div-3 {
+          max-width: 100%;
+          padding-right: 20px;
+        }
+      }
+      .div-4 {
+        background-color: rgba(255, 191, 191, 1);
+        border-radius: 50%;
+        align-self: start;
+        display: flex;
+        width: 103px;
+        flex-direction: column;
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        height: 103px;
+        padding: 3px 3px 17px;
+        font: 400 14px Darling Coffee, sans-serif;
+        border: 3px solid rgba(255, 255, 255, 1);
+      }
+      .img {
+        aspect-ratio: 1.39;
+        object-fit: contain;
+        object-position: center;
+        width: 100%;
+      }
+      .paw-world {
+        align-self: center;
+      }
+      .div-5 {
+        border-radius: 91px;
+        background-color: rgba(255, 229, 229, 1);
+        width: 100%;
+        max-width: 1274px;
+        margin-top: 60px;
+        padding: 39px 41px;
+      }
+      @media (max-width: 991px) {
+        .div-5 {
+          max-width: 100%;
+          padding: 0 20px;
+        }
+      }
+      .div-6 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-6 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-7 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 50%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-7 {
+          width: 100%;
+        }
+      }
+      .div-7 {
+        display: flex;
+        margin-top: 19px;
+        flex-direction: column;
+        color: var(--Color, #4d3117);
+      }
+      @media (max-width: 991px) {
+        .div-7 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .donation-2 {
+        align-self: start;
+        font: 400 48px Darling Coffee, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .donation-2 {
+          font-size: 40px;
+        }
+      }
+      .a-donation-for-pets-typically-refers-to-a-contribution-of-money-goods-or-services-aimed-at-supporting-the-well-being-and-care-of-animals-these-donations-can-help-provide-food-shelter-medical-care-and-other-essential-needs-for-pets-in-shelters-rescue-organizations-or-low-income-households-by-giving-to-these-causes-individuals-contribute-to-improving-the-lives-of-animals-and-supporting-the-efforts-of-organizations-dedicated-to-their-welfare {
+        margin-top: 56px;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .a-donation-for-pets-typically-refers-to-a-contribution-of-money-goods-or-services-aimed-at-supporting-the-well-being-and-care-of-animals-these-donations-can-help-provide-food-shelter-medical-care-and-other-essential-needs-for-pets-in-shelters-rescue-organizations-or-low-income-households-by-giving-to-these-causes-individuals-contribute-to-improving-the-lives-of-animals-and-supporting-the-efforts-of-organizations-dedicated-to-their-welfare {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .column-8 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 50%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-8 {
+          width: 100%;
+        }
+      }
+      .img-2 {
+        aspect-ratio: 1.67;
+        object-fit: contain;
+        object-position: center;
+        width: 100%;
+        border-radius: 55px;
+        flex-grow: 1;
+      }
+      @media (max-width: 991px) {
+        .img-2 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .div-8 {
+        margin-top: 61px;
+        width: 100%;
+        max-width: 1277px;
+      }
+      @media (max-width: 991px) {
+        .div-8 {
+          max-width: 100%;
+          margin: 40px 10px 0 0;
+        }
+      }
+      .div-9 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-9 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-9 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 36%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-9 {
+          width: 100%;
+        }
+      }
+      .img-3 {
+        aspect-ratio: 1.08;
+        object-fit: contain;
+        object-position: center;
+        width: 100%;
+        flex-grow: 1;
+      }
+      @media (max-width: 991px) {
+        .img-3 {
+          max-width: 100%;
+          margin-top: 22px;
+        }
+      }
+      .column-10 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 64%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-10 {
+          width: 100%;
+        }
+      }
+      .div-10 {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        align-self: stretch;
+        margin: auto 0;
+      }
+      @media (max-width: 991px) {
+        .div-10 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .the-following-donor-details-must-be-provided-for-the-receipt {
+        color: var(--Color, #4d3117);
+        text-align: right;
+        margin: 0 31px 0 14px;
+        font: 400 24px Darling Coffee, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .the-following-donor-details-must-be-provided-for-the-receipt {
+          max-width: 100%;
+          margin-right: 10px;
+        }
+      }
+      .div-11 {
+        border-radius: 32px;
+        background-color: rgba(255, 191, 191, 1);
+        margin-top: 12px;
+        padding-left: 29px;
+      }
+      @media (max-width: 991px) {
+        .div-11 {
+          max-width: 100%;
+          padding-left: 20px;
+        }
+      }
+      .div-12 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-12 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-11 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 50%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-11 {
+          width: 100%;
+        }
+      }
+      .for-individuals-full-name-as-per-malaysian-ic-or-foreign-passport-malaysian-ic-or-foreign-passport-number-full-correspondence-address {
+        color: var(--Color, #4d3117);
+        align-self: stretch;
+        margin: auto 0;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .for-individuals-full-name-as-per-malaysian-ic-or-foreign-passport-malaysian-ic-or-foreign-passport-number-full-correspondence-address {
+          margin-top: 34px;
+        }
+      }
+      .column-12 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 50%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-12 {
+          width: 100%;
+        }
+      }
+      .for-non-individuals-full-name-as-per-business-registration-business-registration-number-full-correspondence-address {
+        border-radius: 0px 32px 32px 0px;
+        background-color: rgba(168, 223, 142, 1);
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        width: 100%;
+        padding: 23px 28px;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .for-non-individuals-full-name-as-per-business-registration-business-registration-number-full-correspondence-address {
+          margin-top: 23px;
+          padding: 0 20px;
+        }
+      }
+      .note-donors-who-fail-to-provide-complete-details-will-not-qualify-to-receive-the-receipt-in-accordance-with-lembaga-hasil-dalam-negeri-malaysia-regulations {
+        color: var(--Color, #4d3117);
+        align-self: start;
+        margin: 25px 0 0 29px;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .note-donors-who-fail-to-provide-complete-details-will-not-qualify-to-receive-the-receipt-in-accordance-with-lembaga-hasil-dalam-negeri-malaysia-regulations {
+          max-width: 100%;
+        }
+      }
+      .div-13 {
+        border-radius: 110px;
+        display: flex;
+        margin-top: 65px;
+        width: 100%;
+        max-width: 1274px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 75px 80px;
+        border: 8px solid rgba(255, 191, 191, 1);
+      }
+      @media (max-width: 991px) {
+        .div-13 {
+          max-width: 100%;
+          margin-top: 40px;
+          padding: 0 20px;
+        }
+      }
+      .div-14 {
+        display: flex;
+        width: 954px;
+        max-width: 100%;
+        flex-direction: column;
+      }
+      .div-15 {
+      }
+      @media (max-width: 991px) {
+        .div-15 {
+          max-width: 100%;
+          margin-right: 2px;
+        }
+      }
+      .div-16 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-16 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-13 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 69%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-13 {
+          width: 100%;
+        }
+      }
+      .div-17 {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        color: var(--Color, #4d3117);
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-17 {
+          max-width: 100%;
+          margin-top: 33px;
+        }
+      }
+      .your-details {
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        align-self: end;
+        font: 400 48px Darling Coffee, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .your-details {
+          font-size: 40px;
+        }
+      }
+      .name {
+        margin-top: 85px;
+      }
+      @media (max-width: 991px) {
+        .name {
+          margin-top: 40px;
+        }
+      }
+      .div-18 {
+        border-radius: 4px;
+        background-color: rgba(255, 229, 229, 1);
+        display: flex;
+        margin-top: 11px;
+        width: 594px;
+        max-width: 100%;
+        height: 23px;
+      }
+      .malaysian-ic-or-foreign-passport-number {
+        margin-top: 26px;
+      }
+      .div-19 {
+        border-radius: 4px;
+        background-color: rgba(255, 229, 229, 1);
+        display: flex;
+        margin-top: 7px;
+        width: 594px;
+        max-width: 100%;
+        height: 23px;
+      }
+      .phone-number {
+        margin-top: 27px;
+      }
+      .div-20 {
+        border-radius: 4px;
+        background-color: rgba(255, 229, 229, 1);
+        display: flex;
+        margin-top: 10px;
+        width: 594px;
+        max-width: 100%;
+        height: 23px;
+      }
+      .address {
+        margin-top: 24px;
+      }
+      .div-21 {
+        border-radius: 4px;
+        background-color: rgba(255, 229, 229, 1);
+        display: flex;
+        margin-top: 10px;
+        width: 594px;
+        max-width: 100%;
+        height: 23px;
+      }
+      .column-14 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 31%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-14 {
+          width: 100%;
+        }
+      }
+      .div-22 {
+        border-radius: 52px;
+        background-color: rgba(168, 223, 142, 1);
+        display: flex;
+        margin-top: 101px;
+        flex-grow: 1;
+        flex-direction: column;
+        align-items: center;
+        color: rgba(77, 49, 23, 1);
+        white-space: nowrap;
+        justify-content: center;
+        width: 100%;
+        padding: 143px 70px;
+        font: 700 24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-22 {
+          margin-top: 40px;
+          white-space: initial;
+          padding: 100px 20px;
+        }
+      }
+      .donate-by {
+        color: var(--Color, #4d3117);
+        text-align: center;
+        align-self: center;
+        margin-top: 35px;
+        font: 400 24px Darling Coffee, sans-serif;
+      }
+      .div-23 {
+        display: flex;
+        margin-top: 51px;
+        align-items: center;
+        gap: 20px;
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        font: 700 24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-23 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .img-4 {
+        aspect-ratio: 0.62;
+        object-fit: contain;
+        object-position: center;
+        width: 25%;
+        align-self: stretch;
+        margin: auto 0;
+      }
+      .or {
+        align-self: stretch;
+        margin: auto 0;
+      }
+      .img-5 {
+        aspect-ratio: 0.62;
+        object-fit: contain;
+        object-position: center;
+        width: 25%;
+        align-self: stretch;
+      }
+      .div-24 {
+        border-radius: 25px;
+        background-color: rgba(255, 229, 229, 1);
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        font-size: 16px;
+        color: #000;
+        font-weight: 500;
+        line-height: 24px;
+        margin: auto 0;
+        padding: 46px 52px;
+        border: 4px solid rgba(255, 191, 191, 1);
+      }
+      @media (max-width: 991px) {
+        .div-24 {
+          padding: 0 20px;
+        }
+      }
+      .direct-bank-in {
+        font-size: 20px;
+        font-weight: 700;
+        align-self: center;
+      }
+      .bank-account-number-3234-926-830 {
+        margin-top: 30px;
+      }
+      .account-holder-paws-world-centre {
+        margin-top: 46px;
+      }
+      @media (max-width: 991px) {
+        .account-holder-paws-world-centre {
+          margin-top: 40px;
+        }
+      }
+      .bank-name-maybank-2-u {
+        align-self: center;
+        margin-top: 40px;
+      }
+      .button {
+        all: unset;
+        display: flex;
+        flex-direction: column;
+        margin-top: 75px;
+        background-color: rgba(255, 229, 229, 1);
+        color: var(--Color, #4d3117);
+        border-radius: 67px;
+        text-align: center;
+        align-self: center;
+        width: 296px;
+        max-width: 100%;
+        align-items: center;
+        white-space: nowrap;
+        padding: 12px 70px 19px;
+        font: 700 20px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .button {
+          margin-top: 40px;
+          white-space: initial;
+          padding: 0 20px;
+        }
+      }
+      .thank-you-for-your-support-of-our-furry-friends {
+        color: var(--Color, #4d3117);
+        text-align: center;
+        margin-top: 91px;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .thank-you-for-your-support-of-our-furry-friends {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .div-25 {
+        background-color: rgba(168, 223, 142, 1);
+        display: flex;
+        margin-top: 54px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        color: rgba(0, 0, 0, 1);
+        text-align: center;
+        padding: 41px 70px 22px;
+        font: 400 20px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-25 {
+          max-width: 100%;
+          margin-top: 40px;
+          padding: 0 20px;
+        }
+      }
+      .div-26 {
+        display: flex;
+        width: 100%;
+        max-width: 989px;
+        gap: 40px 98px;
+        flex-wrap: wrap;
+      }
+      @media (max-width: 991px) {
+        .div-26 {
+          max-width: 100%;
+        }
+      }
+      .div-27 {
+        align-self: start;
+        display: flex;
+        gap: 40px 64px;
+        flex-grow: 1;
+        flex-basis: auto;
+      }
+      @media (max-width: 991px) {
+        .div-27 {
+          max-width: 100%;
+        }
+      }
+      .div-28 {
+        display: flex;
+        gap: 40px 42px;
+        flex-grow: 1;
+        flex-basis: auto;
+      }
+      .get-involved {
+        align-self: start;
+        flex-basis: auto;
+      }
+      .div-29 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        white-space: nowrap;
+      }
+      @media (max-width: 991px) {
+        .div-29 {
+          white-space: initial;
+        }
+      }
+      .pawworld-gmail-com {
+        align-self: stretch;
+        margin-top: 24px;
+      }

@@ -1,0 +1,365 @@
+.our-team {
+  background-color: rgba(243, 253, 232, 1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  color: var(--Color, #4d3117);
+  text-align: center;
+}
+.div {
+  background-color: rgba(168, 223, 142, 1);
+  gap: 40px 45px;
+  color: rgba(77, 49, 23, 1);
+  display: flex;
+  flex-direction: column;
+  padding: 16px 80px;
+  font: 400 20px Darling Coffee, sans-serif;
+}
+@media (max-width: 991px) {
+  .div {
+    padding: 0 20px;
+  }
+}
+.div-2 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-2 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column {
+    width: 100%;
+  }
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-2 {
+    width: 100%;
+  }
+}
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-3 {
+    width: 100%;
+  }
+}
+.column-4 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-4 {
+    width: 100%;
+  }
+}
+.column-5 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-5 {
+    width: 100%;
+  }
+}
+.column-6 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-6 {
+    width: 100%;
+  }
+}
+.div-3 {
+  z-index: 10;
+  display: flex;
+  width: 100%;
+  max-width: 1187px;
+  align-items: end;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: -51px 0 0 10px;
+  align-self: center;
+}
+@media (max-width: 991px) {
+  .div-3 {
+    max-width: 100%;
+  }
+}
+.div-4 {
+  background-color: rgba(255, 191, 191, 1);
+  border-radius: 50%;
+  align-self: start;
+  z-index: 10;
+  display: flex;
+  width: 103px;
+  flex-direction: column;
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  height: 103px;
+  margin: -51px 0 0 10px;
+  padding: 3px 3px 17px;
+  font: 400 14px Darling Coffee, sans-serif;
+  border: 3px solid rgba(255, 255, 255, 1);
+}
+.img {
+  aspect-ratio: 1.39;
+  object-fit: contain;
+  object-position: center;
+  width: 96px;
+}
+.paw-world {
+  align-self: center;
+}
+.div-5 {
+  display: flex;
+  margin-top: 163px;
+  flex-direction: column;
+  font: 700 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-5 {
+    margin-top: 40px;
+  }
+}
+.div-6 {
+  border-radius: 27px;
+  background-color: rgba(255, 229, 229, 1);
+  display: flex;
+  height: 222px;
+  aspect-ratio: 1;
+  border: 12px solid rgba(168, 223, 142, 1);
+}
+.mun-hong {
+  align-self: center;
+  margin-top: 19px;
+}
+.div-7 {
+  display: flex;
+  margin-top: 86px;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-7 {
+    margin-top: 40px;
+  }
+}
+.our-team-2 {
+  font: 400 48px Darling Coffee, sans-serif;
+}
+@media (max-width: 991px) {
+  .our-team-2 {
+    font-size: 40px;
+  }
+}
+.div-8 {
+  border-radius: 27px;
+  background-color: rgba(255, 229, 229, 1);
+  display: flex;
+  margin-top: 27px;
+  width: 224px;
+  height: 222px;
+  aspect-ratio: 1;
+  border: 12px solid rgba(168, 223, 142, 1);
+}
+@media (max-width: 991px) {
+  .div-8 {
+    margin: 0 6px 0 7px;
+  }
+}
+.mei-yi {
+  align-self: center;
+  margin-top: 29px;
+  font: 700 20px Inter, sans-serif;
+}
+.div-9 {
+  display: flex;
+  margin-top: 163px;
+  flex-direction: column;
+  font: 700 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-9 {
+    margin-top: 40px;
+  }
+}
+.div-10 {
+  border-radius: 27px;
+  background-color: rgba(255, 229, 229, 1);
+  display: flex;
+  height: 222px;
+  aspect-ratio: 1;
+  border: 13px solid rgba(168, 223, 142, 1);
+}
+.kai-rou {
+  align-self: center;
+  margin-top: 29px;
+}
+.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx {
+  align-self: center;
+  margin-top: 59px;
+  font: 500 16px/24px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx {
+    margin-top: 40px;
+  }
+}
+.group-photo {
+  border-radius: 34px;
+  background-color: rgba(255, 229, 229, 1);
+  align-self: center;
+  margin-top: 58px;
+  width: 100%;
+  max-width: 1196px;
+  color: rgba(0, 0, 0, 1);
+  padding: 131px 70px 106px;
+  font: 400 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .group-photo {
+    max-width: 100%;
+    margin-top: 40px;
+    padding: 100px 20px 110px;
+  }
+}
+.div-11 {
+  align-self: center;
+  display: flex;
+  margin-top: 51px;
+  width: 100%;
+  max-width: 1187px;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font: 700 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-11 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.about-us {
+  border-radius: 30px;
+  background-color: rgba(255, 191, 191, 1);
+  padding: 26px 70px;
+}
+@media (max-width: 991px) {
+  .about-us {
+    padding: 0 20px;
+  }
+}
+.programme {
+  border-radius: 30px;
+  background-color: rgba(255, 191, 191, 1);
+  white-space: nowrap;
+  padding: 24px 66px;
+}
+@media (max-width: 991px) {
+  .programme {
+    white-space: initial;
+    padding: 0 20px;
+  }
+}
+.div-12 {
+  background-color: rgba(168, 223, 142, 1);
+  display: flex;
+  margin-top: 294px;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  color: rgba(0, 0, 0, 1);
+  padding: 41px 70px 22px;
+  font: 400 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-12 {
+    max-width: 100%;
+    margin-top: 40px;
+    padding: 0 20px;
+  }
+}
+.div-13 {
+  display: flex;
+  width: 100%;
+  max-width: 989px;
+  gap: 40px 98px;
+  flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .div-13 {
+    max-width: 100%;
+  }
+}
+.div-14 {
+  align-self: start;
+  display: flex;
+  gap: 40px 64px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+@media (max-width: 991px) {
+  .div-14 {
+    max-width: 100%;
+  }
+}
+.div-15 {
+  display: flex;
+  gap: 40px 42px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+.get-involved {
+  align-self: start;
+  flex-basis: auto;
+}
+.div-16 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+}
+@media (max-width: 991px) {
+  .div-16 {
+    white-space: initial;
+  }
+}
+.pawworld-gmail-com {
+  align-self: stretch;
+  margin-top: 24px;
+}

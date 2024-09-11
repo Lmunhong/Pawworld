@@ -1,0 +1,647 @@
+        .volunteer {
+          background-color: rgba(243, 253, 232, 1);
+          display: flex;
+          flex-direction: column;
+          overflow: hidden;
+        }
+        .div {
+          background-color: rgba(168, 223, 142, 1);
+          gap: 40px 45px;
+          color: rgba(77, 49, 23, 1);
+          text-align: center;
+          display: flex;
+          flex-direction: column;
+          padding: 14px 80px;
+          font: 400 20px Darling Coffee, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .div {
+            padding: 0 20px;
+          }
+        }
+        .div-2 {
+          gap: 20px;
+          display: flex;
+        }
+        @media (max-width: 991px) {
+          .div-2 {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0px;
+          }
+        }
+        .column {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 0px;
+        }
+        @media (max-width: 991px) {
+          .column {
+            width: 100%;
+          }
+        }
+        .column-2 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-2 {
+            width: 100%;
+          }
+        }
+        .column-3 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-3 {
+            width: 100%;
+          }
+        }
+        .column-4 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-4 {
+            width: 100%;
+          }
+        }
+        .column-5 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-5 {
+            width: 100%;
+          }
+        }
+        .column-6 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-6 {
+            width: 100%;
+          }
+        }
+        .div-3 {
+          z-index: 10;
+          display: flex;
+          width: 100%;
+          max-width: 1278px;
+          flex-direction: column;
+          margin: -35px 0 0 34px;
+        }
+        @media (max-width: 991px) {
+          .div-3 {
+            max-width: 100%;
+          }
+        }
+        .div-4 {
+          background-color: rgba(255, 191, 191, 1);
+          border-radius: 50%;
+          display: flex;
+          width: 103px;
+          flex-direction: column;
+          color: rgba(77, 49, 23, 1);
+          text-align: center;
+          height: 103px;
+          padding: 3px 3px 17px;
+          font: 400 14px Darling Coffee, sans-serif;
+          border: 3px solid rgba(255, 255, 255, 1);
+        }
+        .img {
+          aspect-ratio: 1.39;
+          object-fit: contain;
+          object-position: center;
+          width: 100%;
+        }
+        .paw-world {
+          align-self: center;
+        }
+        .div-5 {
+          align-self: end;
+          margin-top: 30px;
+          width: 100%;
+          max-width: 1200px;
+        }
+        @media (max-width: 991px) {
+          .div-5 {
+            max-width: 100%;
+            margin-right: 10px;
+          }
+        }
+        .div-6 {
+          gap: 20px;
+          display: flex;
+        }
+        @media (max-width: 991px) {
+          .div-6 {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0px;
+          }
+        }
+        .column-7 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 45%;
+          margin-left: 0px;
+        }
+        @media (max-width: 991px) {
+          .column-7 {
+            width: 100%;
+          }
+        }
+        .img-2 {
+          aspect-ratio: 1.4;
+          object-fit: contain;
+          object-position: center;
+          width: 100%;
+          border-radius: 37px;
+          flex-grow: 1;
+        }
+        @media (max-width: 991px) {
+          .img-2 {
+            max-width: 100%;
+            margin-top: 40px;
+          }
+        }
+        .column-8 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 55%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-8 {
+            width: 100%;
+          }
+        }
+        .div-7 {
+          display: flex;
+          margin-top: 13px;
+          flex-direction: column;
+          color: var(--Color, #4d3117);
+        }
+        @media (max-width: 991px) {
+          .div-7 {
+            max-width: 100%;
+            margin-top: 40px;
+          }
+        }
+        .volunteer-2 {
+          text-align: center;
+          align-self: start;
+          font: 400 48px Darling Coffee, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .volunteer-2 {
+            font-size: 40px;
+          }
+        }
+        .div-8 {
+          display: flex;
+          margin-top: 34px;
+          padding-left: 9px;
+          flex-direction: column;
+          font-family: Inter, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .div-8 {
+            max-width: 100%;
+          }
+        }
+        .when-you-volunteer-at-paws-you-can-choose-to-spend-time-with-any-animal-that-you-want-and-do-the-work-that-you-enjoy-if-you-dont-have-a-preference-youll-be-assigned-key-enrichment-activities-primarily-focusing-on-socializing-with-the-animals-volunteers-must-be-capable-of-working-independently-with-minimal-supervision-and-guidance-additionally-you-can-join-our-program-as-a-volunteer-further-contributing-to-the-well-being-of-the-animals {
+          font-size: 16px;
+          font-weight: 500;
+          line-height: 24px;
+        }
+        @media (max-width: 991px) {
+          .when-you-volunteer-at-paws-you-can-choose-to-spend-time-with-any-animal-that-you-want-and-do-the-work-that-you-enjoy-if-you-dont-have-a-preference-youll-be-assigned-key-enrichment-activities-primarily-focusing-on-socializing-with-the-animals-volunteers-must-be-capable-of-working-independently-with-minimal-supervision-and-guidance-additionally-you-can-join-our-program-as-a-volunteer-further-contributing-to-the-well-being-of-the-animals {
+            max-width: 100%;
+          }
+        }
+        .button {
+          all: unset;
+          display: flex;
+          flex-direction: column;
+          margin-top: 27px;
+          background-color: rgba(255, 191, 191, 1);
+          border-radius: 30px;
+          text-align: center;
+          align-self: start;
+          font-size: 20px;
+          font-weight: 700;
+          white-space: nowrap;
+          justify-content: center;
+          padding: 19px 46px;
+        }
+        @media (max-width: 991px) {
+          .button {
+            white-space: initial;
+            padding: 0 20px;
+          }
+        }
+        .div-9 {
+          border-radius: 84px;
+          background-color: rgba(255, 229, 229, 1);
+          align-self: end;
+          display: flex;
+          margin-top: 56px;
+          width: 100%;
+          max-width: 1196px;
+          flex-direction: column;
+          padding: 36px 17px 0 60px;
+        }
+        @media (max-width: 991px) {
+          .div-9 {
+            max-width: 100%;
+            padding-left: 20px;
+            margin-top: 40px;
+          }
+        }
+        .volunteer-process {
+          color: var(--Color, #4d3117);
+          text-align: center;
+          align-self: start;
+          font: 400 24px Darling Coffee, sans-serif;
+        }
+        .div-10 {
+        }
+        @media (max-width: 991px) {
+          .div-10 {
+            max-width: 100%;
+          }
+        }
+        .div-11 {
+          gap: 20px;
+          display: flex;
+        }
+        @media (max-width: 991px) {
+          .div-11 {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0px;
+          }
+        }
+        .column-9 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 33%;
+          margin-left: 0px;
+        }
+        @media (max-width: 991px) {
+          .column-9 {
+            width: 100%;
+          }
+        }
+        .how-to-become-a-volunteer-for-volunteers-who-wish-to-come-in-advanced-booking-must-be-made-via-phone-call-to-01-x-xxxxxxxx-during-shelter-hours-9-am-to-4-pm-six-days-a-week-closed-on-wednesdays-and-public-holidays-please-take-note-that-we-can-only-accommodate-up-to-a-maximum-of-4-volunteers-at-any-one-time-and-slot-availability-is-strictly-on-a-first-come-first-served-basis-all-volunteers-are-required-to-submit-the-volunteer-form-below-prior-to-the-first-volunteering-session-once-you-have-done-this-you-will-not-be-required-to-register-anymore-for-subsequent-sessions-if-the-form-is-not-completed-in-full-you-will-not-be-authorised-to-volunteer-at-paws-world {
+          color: var(--Color, #4d3117);
+          margin: 0 -143px 0 -4px;
+          font: 500 16px/24px Inter, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .how-to-become-a-volunteer-for-volunteers-who-wish-to-come-in-advanced-booking-must-be-made-via-phone-call-to-01-x-xxxxxxxx-during-shelter-hours-9-am-to-4-pm-six-days-a-week-closed-on-wednesdays-and-public-holidays-please-take-note-that-we-can-only-accommodate-up-to-a-maximum-of-4-volunteers-at-any-one-time-and-slot-availability-is-strictly-on-a-first-come-first-served-basis-all-volunteers-are-required-to-submit-the-volunteer-form-below-prior-to-the-first-volunteering-session-once-you-have-done-this-you-will-not-be-required-to-register-anymore-for-subsequent-sessions-if-the-form-is-not-completed-in-full-you-will-not-be-authorised-to-volunteer-at-paws-world {
+            max-width: 100%;
+            margin-top: 40px;
+          }
+        }
+        .column-10 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 33%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-10 {
+            width: 100%;
+          }
+        }
+        .img-3 {
+          aspect-ratio: 0.76;
+          object-fit: contain;
+          object-position: center;
+          width: 100%;
+          min-height: 20px;
+          min-width: 20px;
+          overflow: hidden;
+          padding-right: 45px;
+          margin: -33px 30px 0 161px;
+        }
+        .column-11 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 33%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-11 {
+            width: 100%;
+          }
+        }
+        .img-4 {
+          aspect-ratio: 1;
+          object-fit: contain;
+          object-position: center;
+          width: 257px;
+          max-width: 100%;
+          margin: 97px -5px 0 0;
+        }
+        @media (max-width: 991px) {
+          .img-4 {
+            margin-top: 40px;
+          }
+        }
+        .div-12 {
+          border-radius: 44px;
+          align-self: center;
+          display: flex;
+          width: 799px;
+          max-width: 100%;
+          flex-direction: column;
+          color: var(--Color, #4d3117);
+          margin: 50px 0 20px 42px;
+          padding: 48px 75px 77px;
+          font: 500 16px Inter, sans-serif;
+          border: 7px solid rgba(168, 223, 142, 1);
+        }
+        @media (max-width: 991px) {
+          .div-12 {
+            margin-top: 40px;
+            padding: 0 20px;
+          }
+        }
+        .form {
+          text-align: center;
+          align-self: center;
+          font: 400 24px Darling Coffee, sans-serif;
+        }
+        .name {
+          align-self: start;
+          margin-top: 9px;
+        }
+        .div-13 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 19px;
+          width: 100%;
+          height: 26px;
+        }
+        @media (max-width: 991px) {
+          .div-13 {
+            margin-right: 2px;
+          }
+        }
+        .div-14 {
+          display: flex;
+          margin-top: 30px;
+          align-items: start;
+          gap: 20px;
+          flex-wrap: wrap;
+          justify-content: space-between;
+        }
+        @media (max-width: 991px) {
+          .div-14 {
+            max-width: 100%;
+            margin-right: 2px;
+          }
+        }
+        .div-15 {
+          align-self: stretch;
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+        }
+        .div-16 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          align-self: stretch;
+          display: flex;
+          margin-top: 15px;
+          height: 26px;
+        }
+        .email-address {
+          margin-top: 28px;
+        }
+        .div-17 {
+          display: flex;
+          flex-direction: column;
+          white-space: nowrap;
+        }
+        @media (max-width: 991px) {
+          .div-17 {
+            white-space: initial;
+          }
+        }
+        .gender {
+          align-self: start;
+        }
+        .div-18 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 14px;
+          height: 27px;
+        }
+        .div-19 {
+          display: flex;
+          flex-direction: column;
+        }
+        .ic-number {
+          align-self: start;
+        }
+        .div-20 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 17px;
+          height: 27px;
+        }
+        .div-21 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 17px;
+          height: 25px;
+        }
+        @media (max-width: 991px) {
+          .div-21 {
+            max-width: 100%;
+          }
+        }
+        .phone-number {
+          align-self: start;
+          margin-top: 29px;
+        }
+        .div-22 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 18px;
+          height: 26px;
+        }
+        @media (max-width: 991px) {
+          .div-22 {
+            max-width: 100%;
+          }
+        }
+        .home-address {
+          align-self: start;
+          margin-top: 38px;
+        }
+        .div-23 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 19px;
+          height: 24px;
+        }
+        @media (max-width: 991px) {
+          .div-23 {
+            max-width: 100%;
+          }
+        }
+        .div-24 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 21px;
+          height: 27px;
+        }
+        @media (max-width: 991px) {
+          .div-24 {
+            max-width: 100%;
+          }
+        }
+        .occupation {
+          align-self: start;
+          margin-top: 21px;
+        }
+        .div-25 {
+          border-radius: 4px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          margin-top: 15px;
+          height: 26px;
+        }
+        @media (max-width: 991px) {
+          .div-25 {
+            max-width: 100%;
+          }
+        }
+        .button-2 {
+          all: unset;
+          display: flex;
+          flex-direction: column;
+          margin-top: 71px;
+          background-color: rgba(255, 191, 191, 1);
+          border-radius: 67px;
+          text-align: center;
+          align-self: center;
+          width: 296px;
+          max-width: 100%;
+          align-items: center;
+          font-size: 20px;
+          font-weight: 700;
+          white-space: nowrap;
+          padding: 13px 70px 25px;
+        }
+        @media (max-width: 991px) {
+          .button-2 {
+            margin-top: 40px;
+            white-space: initial;
+            padding: 0 20px;
+          }
+        }
+        .div-26 {
+          background-color: rgba(168, 223, 142, 1);
+          display: flex;
+          margin-top: 18px;
+          width: 100%;
+          flex-direction: column;
+          align-items: center;
+          color: rgba(0, 0, 0, 1);
+          text-align: center;
+          padding: 41px 70px 22px;
+          font: 400 20px Inter, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .div-26 {
+            max-width: 100%;
+            padding: 0 20px;
+          }
+        }
+        .div-27 {
+          display: flex;
+          width: 100%;
+          max-width: 989px;
+          gap: 40px 98px;
+          flex-wrap: wrap;
+        }
+        @media (max-width: 991px) {
+          .div-27 {
+            max-width: 100%;
+          }
+        }
+        .div-28 {
+          align-self: start;
+          display: flex;
+          gap: 40px 64px;
+          flex-grow: 1;
+          flex-basis: auto;
+        }
+        @media (max-width: 991px) {
+          .div-28 {
+            max-width: 100%;
+          }
+        }
+        .div-29 {
+          display: flex;
+          gap: 40px 42px;
+          flex-grow: 1;
+          flex-basis: auto;
+        }
+        .get-involved {
+          align-self: start;
+          flex-basis: auto;
+        }
+        .div-30 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          white-space: nowrap;
+        }
+        @media (max-width: 991px) {
+          .div-30 {
+            white-space: initial;
+          }
+        }
+        .pawworld-gmail-com {
+          align-self: stretch;
+          margin-top: 24px;
+        }

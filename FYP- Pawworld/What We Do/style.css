@@ -1,0 +1,446 @@
+.what-we-do-programme {
+  background-color: rgba(243, 253, 232, 1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  align-items: center;
+}
+.div {
+  background-color: rgba(168, 223, 142, 1);
+  align-self: stretch;
+  gap: 40px 45px;
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 80px;
+  font: 400 20px Darling Coffee, sans-serif;
+}
+@media (max-width: 991px) {
+  .div {
+    padding: 0 20px;
+  }
+}
+.div-2 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-2 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column {
+    width: 100%;
+  }
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-2 {
+    width: 100%;
+  }
+}
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-3 {
+    width: 100%;
+  }
+}
+.column-4 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-4 {
+    width: 100%;
+  }
+}
+.column-5 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-5 {
+    width: 100%;
+  }
+}
+.column-6 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 17%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-6 {
+    width: 100%;
+  }
+}
+.div-3 {
+  background-color: rgba(255, 191, 191, 1);
+  border-radius: 50%;
+  align-self: start;
+  z-index: 10;
+  display: flex;
+  width: 103px;
+  flex-direction: column;
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  height: 103px;
+  margin: -51px 0 0 10px;
+  padding: 3px 3px 17px;
+  font: 400 14px Darling Coffee, sans-serif;
+  border: 3px solid rgba(255, 255, 255, 1);
+}
+.img {
+  aspect-ratio: 1.39;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+}
+.paw-world {
+  align-self: center;
+}
+.what-we-do {
+  color: var(--Color, #4d3117);
+  text-align: center;
+  margin-top: 5px;
+  font: 400 48px Darling Coffee, sans-serif;
+}
+@media (max-width: 991px) {
+  .what-we-do {
+    font-size: 40px;
+  }
+}
+.div-4 {
+  margin-top: 72px;
+  width: 100%;
+  max-width: 1171px;
+}
+@media (max-width: 991px) {
+  .div-4 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-5 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-5 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-7 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 55%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-7 {
+    width: 100%;
+  }
+}
+.div-6 {
+  display: flex;
+  flex-direction: column;
+  color: var(--Color, #4d3117);
+}
+@media (max-width: 991px) {
+  .div-6 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.programme {
+  text-align: center;
+  align-self: start;
+  font: 400 24px Darling Coffee, sans-serif;
+}
+.at-paw-world-we-are-committed-to-ensuring-the-health-and-happiness-of-every-pet-in-our-care-through-our-comprehensive-pet-wellness-program-this-program-is-designed-to-provide-essential-services-and-support-to-pets-and-their-owners-promoting-lifelong-well-being-and-responsible-pet-ownership-we-respond-to-calls-and-collaborate-with-local-authorities-to-rescue-animals-from-neglect-abuse-or-abandonment-our-trained-staff-and-volunteers-work-tirelessly-to-ensure-each-rescue-is-handled-with-compassion-and-efficiency-upon-rescue-pets-receive-thorough-medical-evaluations-vaccinations-and-necessary-treatments-we-prioritize-their-health-and-well-being-addressing-any-medical-issues-to-prepare-them-for-adoption {
+  margin-top: 22px;
+  font: 500 16px/24px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .at-paw-world-we-are-committed-to-ensuring-the-health-and-happiness-of-every-pet-in-our-care-through-our-comprehensive-pet-wellness-program-this-program-is-designed-to-provide-essential-services-and-support-to-pets-and-their-owners-promoting-lifelong-well-being-and-responsible-pet-ownership-we-respond-to-calls-and-collaborate-with-local-authorities-to-rescue-animals-from-neglect-abuse-or-abandonment-our-trained-staff-and-volunteers-work-tirelessly-to-ensure-each-rescue-is-handled-with-compassion-and-efficiency-upon-rescue-pets-receive-thorough-medical-evaluations-vaccinations-and-necessary-treatments-we-prioritize-their-health-and-well-being-addressing-any-medical-issues-to-prepare-them-for-adoption {
+    max-width: 100%;
+  }
+}
+.column-8 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 45%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-8 {
+    width: 100%;
+  }
+}
+.img-2 {
+  aspect-ratio: 1.46;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  border-radius: 32px;
+  flex-grow: 1;
+}
+@media (max-width: 991px) {
+  .img-2 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-7 {
+  border-radius: 37px;
+  background-color: rgba(255, 229, 229, 1);
+  margin-top: 36px;
+  width: 100%;
+  max-width: 1174px;
+  padding: 21px 28px;
+}
+@media (max-width: 991px) {
+  .div-7 {
+    max-width: 100%;
+    padding: 0 20px;
+  }
+}
+.div-8 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-8 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-9 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-9 {
+    width: 100%;
+  }
+}
+.img-3 {
+  aspect-ratio: 1.77;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  border-radius: 14px;
+  flex-grow: 1;
+}
+@media (max-width: 991px) {
+  .img-3 {
+    margin-top: 40px;
+  }
+}
+.column-10 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-10 {
+    width: 100%;
+  }
+}
+.img-4 {
+  aspect-ratio: 1.78;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  border-radius: 14px;
+  flex-grow: 1;
+}
+@media (max-width: 991px) {
+  .img-4 {
+    margin-top: 40px;
+  }
+}
+.column-11 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-11 {
+    width: 100%;
+  }
+}
+.img-5 {
+  aspect-ratio: 1.78;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  border-radius: 14px;
+  flex-grow: 1;
+}
+@media (max-width: 991px) {
+  .img-5 {
+    margin-top: 39px;
+  }
+}
+.each-program-at-paw-world-is-driven-by-our-commitment-to-compassion-integrity-and-the-well-being-of-animals-with-your-support-we-can-continue-to-expand-our-impact-and-make-a-positive-difference-in-the-lives-of-pets-and-their-families {
+  color: var(--Color, #4d3117);
+  text-align: center;
+  margin-top: 36px;
+  width: 50%;
+  font: 500 16px/24px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .each-program-at-paw-world-is-driven-by-our-commitment-to-compassion-integrity-and-the-well-being-of-animals-with-your-support-we-can-continue-to-expand-our-impact-and-make-a-positive-difference-in-the-lives-of-pets-and-their-families {
+    max-width: 100%;
+  }
+}
+.div-9 {
+  display: flex;
+  margin-top: 47px;
+  width: 100%;
+  max-width: 1196px;
+  gap: 20px;
+  color: var(--Color, #4d3117);
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font: 700 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-9 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.about-us {
+  border-radius: 30px;
+  background-color: rgba(255, 191, 191, 1);
+  padding: 22px 70px;
+}
+@media (max-width: 991px) {
+  .about-us {
+    padding: 0 20px;
+  }
+}
+.our-team {
+  border-radius: 30px;
+  background-color: rgba(255, 191, 191, 1);
+  padding: 22px 70px;
+}
+@media (max-width: 991px) {
+  .our-team {
+    padding: 0 20px;
+  }
+}
+.div-10 {
+  background-color: rgba(168, 223, 142, 1);
+  align-self: stretch;
+  display: flex;
+  margin-top: 236px;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  padding: 41px 70px 22px;
+  font: 400 20px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-10 {
+    max-width: 100%;
+    margin-top: 40px;
+    padding: 0 20px;
+  }
+}
+.div-11 {
+  display: flex;
+  width: 100%;
+  max-width: 989px;
+  gap: 40px 98px;
+  flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .div-11 {
+    max-width: 100%;
+  }
+}
+.div-12 {
+  align-self: start;
+  display: flex;
+  gap: 40px 64px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+@media (max-width: 991px) {
+  .div-12 {
+    max-width: 100%;
+  }
+}
+.div-13 {
+  display: flex;
+  gap: 40px 42px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+.get-involved {
+  align-self: start;
+  flex-basis: auto;
+}
+.div-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+}
+@media (max-width: 991px) {
+  .div-14 {
+    white-space: initial;
+  }
+}
+.pawworld-gmail-com {
+  align-self: stretch;
+  margin-top: 24px;
+}

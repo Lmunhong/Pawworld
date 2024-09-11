@@ -1,0 +1,403 @@
+        .contact-us {
+          background-color: rgba(243, 253, 232, 1);
+          display: flex;
+          flex-direction: column;
+          overflow: hidden;
+        }
+        .div {
+          background-color: rgba(168, 223, 142, 1);
+          gap: 40px 45px;
+          color: rgba(77, 49, 23, 1);
+          text-align: center;
+          display: flex;
+          flex-direction: column;
+          padding: 16px 80px;
+          font: 400 20px Darling Coffee, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .div {
+            padding: 0 20px;
+          }
+        }
+        .div-2 {
+          gap: 20px;
+          display: flex;
+        }
+        @media (max-width: 991px) {
+          .div-2 {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0px;
+          }
+        }
+        .column {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 0px;
+        }
+        @media (max-width: 991px) {
+          .column {
+            width: 100%;
+          }
+        }
+        .column-2 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-2 {
+            width: 100%;
+          }
+        }
+        .column-3 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-3 {
+            width: 100%;
+          }
+        }
+        .column-4 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-4 {
+            width: 100%;
+          }
+        }
+        .column-5 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-5 {
+            width: 100%;
+          }
+        }
+        .column-6 {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+          width: 17%;
+          margin-left: 20px;
+        }
+        @media (max-width: 991px) {
+          .column-6 {
+            width: 100%;
+          }
+        }
+        .div-3 {
+          background-color: rgba(255, 191, 191, 1);
+          border-radius: 50%;
+          z-index: 10;
+          display: flex;
+          width: 103px;
+          flex-direction: column;
+          color: rgba(77, 49, 23, 1);
+          text-align: center;
+          height: 103px;
+          margin: -51px 0 0 10px;
+          padding: 3px 3px 17px;
+          font: 400 14px Darling Coffee, sans-serif;
+          border: 3px solid rgba(255, 255, 255, 1);
+        }
+        .img {
+          aspect-ratio: 1.39;
+          object-fit: contain;
+          object-position: center;
+          width: 100%;
+        }
+        .paw-world {
+          align-self: center;
+        }
+        .contact-us-2 {
+          color: var(--Color, #4d3117);
+          text-align: center;
+          align-self: center;
+          margin-top: 35px;
+          font: 400 48px Darling Coffee, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .contact-us-2 {
+            font-size: 40px;
+          }
+        }
+        .div-4 {
+          border-radius: 41px;
+          background-color: rgba(243, 253, 232, 1);
+          align-self: center;
+          display: flex;
+          margin-top: 27px;
+          width: 1196px;
+          max-width: 100%;
+          flex-direction: column;
+          align-items: center;
+          padding: 33px 80px 75px;
+          border: 6px solid rgba(168, 223, 142, 1);
+        }
+        @media (max-width: 991px) {
+          .div-4 {
+            padding: 0 20px;
+          }
+        }
+        .div-5 {
+          display: flex;
+          margin-left: 12px;
+          width: 951px;
+          max-width: 100%;
+          flex-direction: column;
+        }
+        .wed-love-to-hear-from-you-please-use-the-form-to-send-us-your-message-or-ideas-or-simply-pop-in-for-a-cup-of-fresh-tea-and-a-cookie {
+          color: var(--Color, #4d3117);
+          text-align: center;
+          align-self: center;
+          font: 700 20px Inter, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .wed-love-to-hear-from-you-please-use-the-form-to-send-us-your-message-or-ideas-or-simply-pop-in-for-a-cup-of-fresh-tea-and-a-cookie {
+            max-width: 100%;
+          }
+        }
+        .div-6 {
+          display: flex;
+          margin-top: 52px;
+          gap: 20px;
+          color: var(--Color, #4d3117);
+          flex-wrap: wrap;
+          justify-content: space-between;
+          font: 500 16px/24px Inter, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .div-6 {
+            max-width: 100%;
+            margin-top: 40px;
+          }
+        }
+        .call-60-12-223-4889-email-paw-world-gmail-com {
+          align-self: start;
+          width: 284px;
+        }
+        .div-7 {
+          align-self: end;
+          display: flex;
+          gap: 30px;
+          margin: 7px 53px 0 0;
+        }
+        @media (max-width: 991px) {
+          .div-7 {
+            margin-right: 10px;
+          }
+        }
+        .img-2 {
+          aspect-ratio: 1;
+          object-fit: contain;
+          object-position: center;
+          width: 37px;
+          border-radius: 50%;
+        }
+        .img-3 {
+          aspect-ratio: 1;
+          object-fit: contain;
+          object-position: center;
+          width: 37px;
+          border-radius: 50%;
+        }
+        .img-4 {
+          aspect-ratio: 1;
+          object-fit: contain;
+          object-position: center;
+          width: 37px;
+          border-radius: 50%;
+        }
+        .div-8 {
+          border-radius: 55px;
+          background-color: rgba(255, 229, 229, 1);
+          align-self: center;
+          display: flex;
+          margin-top: 69px;
+          width: 100%;
+          max-width: 1190px;
+          flex-direction: column;
+          align-items: center;
+          color: var(--Color, #4d3117);
+          justify-content: center;
+          padding: 37px 80px;
+          font: 500 16px Inter, sans-serif;
+          border: 6px solid rgba(255, 191, 191, 1);
+        }
+        @media (max-width: 991px) {
+          .div-8 {
+            max-width: 100%;
+            margin-top: 40px;
+            padding: 0 20px;
+          }
+        }
+        .div-9 {
+          display: flex;
+          width: 951px;
+          max-width: 100%;
+          flex-direction: column;
+        }
+        .have-a-question-or-comment {
+          text-align: center;
+          align-self: center;
+          font: 400 24px Darling Coffee, sans-serif;
+        }
+        .name {
+          align-self: start;
+          z-index: 10;
+          margin-top: 31px;
+        }
+        .div-10 {
+          border-radius: 6px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          width: 100%;
+          height: 31px;
+        }
+        .email-address {
+          align-self: start;
+          z-index: 10;
+          margin-top: 37px;
+        }
+        .div-11 {
+          border-radius: 6px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          width: 100%;
+          height: 31px;
+        }
+        .phone {
+          align-self: start;
+          z-index: 10;
+          margin-top: 41px;
+        }
+        @media (max-width: 991px) {
+          .phone {
+            margin-top: 40px;
+          }
+        }
+        .div-12 {
+          border-radius: 6px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          width: 100%;
+          height: 31px;
+        }
+        .leave-us-a-message {
+          align-self: start;
+          margin-top: 43px;
+        }
+        @media (max-width: 991px) {
+          .leave-us-a-message {
+            margin-top: 40px;
+          }
+        }
+        .div-13 {
+          border-radius: 13px;
+          background-color: rgba(255, 191, 191, 1);
+          display: flex;
+          width: 100%;
+          height: 99px;
+        }
+        .submit {
+          border-radius: 36px;
+          background-color: rgba(255, 191, 191, 1);
+          align-self: end;
+          margin-top: 28px;
+          font-size: 20px;
+          font-weight: 700;
+          white-space: nowrap;
+          text-align: center;
+          padding: 8px 35px;
+        }
+        @media (max-width: 991px) {
+          .submit {
+            white-space: initial;
+            padding: 0 20px;
+          }
+        }
+        .div-14 {
+          background-color: rgba(168, 223, 142, 1);
+          display: flex;
+          margin-top: 145px;
+          width: 100%;
+          flex-direction: column;
+          align-items: center;
+          color: rgba(0, 0, 0, 1);
+          text-align: center;
+          padding: 41px 70px 21px;
+          font: 400 20px Inter, sans-serif;
+        }
+        @media (max-width: 991px) {
+          .div-14 {
+            max-width: 100%;
+            margin-top: 40px;
+            padding: 0 20px;
+          }
+        }
+        .div-15 {
+          display: flex;
+          width: 100%;
+          max-width: 989px;
+          gap: 40px 98px;
+          flex-wrap: wrap;
+        }
+        @media (max-width: 991px) {
+          .div-15 {
+            max-width: 100%;
+          }
+        }
+        .div-16 {
+          align-self: start;
+          display: flex;
+          gap: 40px 64px;
+          flex-grow: 1;
+          flex-basis: auto;
+        }
+        @media (max-width: 991px) {
+          .div-16 {
+            max-width: 100%;
+          }
+        }
+        .div-17 {
+          display: flex;
+          gap: 40px 42px;
+          flex-grow: 1;
+          flex-basis: auto;
+        }
+        .get-involved {
+          align-self: start;
+          flex-basis: auto;
+        }
+        .div-18 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          white-space: nowrap;
+        }
+        @media (max-width: 991px) {
+          .div-18 {
+            white-space: initial;
+          }
+        }
+        .pawworld-gmail-com {
+          align-self: stretch;
+          margin-top: 24px;
+        }

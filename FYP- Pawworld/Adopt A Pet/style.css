@@ -1,0 +1,810 @@
+      .one {
+        margin: auto 0;
+      }
+      .two {
+        border-radius: 50px;
+        background-color: rgba(168, 223, 142, 1);
+        line-height: 24px;
+        padding: 13px 57px 24px;
+      }
+      @media (max-width: 991px) {
+        .two {
+          white-space: initial;
+          padding: 0 20px;
+        }
+      }
+      .adopt-a-pet {
+        background-color: rgba(243, 253, 232, 1);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        align-items: center;
+      }
+      .div {
+        background-color: rgba(168, 223, 142, 1);
+        align-self: stretch;
+        gap: 40px 45px;
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        padding: 16px 80px;
+        font: 400 20px Darling Coffee, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div {
+          padding: 0 20px;
+        }
+      }
+      .div-2 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-2 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column {
+          width: 100%;
+        }
+      }
+      .column-2 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-2 {
+          width: 100%;
+        }
+      }
+      .column-3 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-3 {
+          width: 100%;
+        }
+      }
+      .column-4 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-4 {
+          width: 100%;
+        }
+      }
+      .column-5 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-5 {
+          width: 100%;
+        }
+      }
+      .column-6 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 17%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-6 {
+          width: 100%;
+        }
+      }
+      .div-3 {
+        background-color: rgba(255, 191, 191, 1);
+        border-radius: 50%;
+        align-self: start;
+        z-index: 10;
+        display: flex;
+        width: 103px;
+        flex-direction: column;
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        height: 103px;
+        margin: -42px 0 0 12px;
+        padding: 3px 3px 17px;
+        font: 400 14px Darling Coffee, sans-serif;
+        border: 3px solid rgba(255, 255, 255, 1);
+      }
+      @media (max-width: 991px) {
+        .div-3 {
+          margin-left: 10px;
+        }
+      }
+      .img {
+        aspect-ratio: 1.39;
+        object-fit: contain;
+        object-position: center;
+        width: 100%;
+      }
+      .paw-world {
+        align-self: center;
+      }
+      .adopt-a-pet-2 {
+        color: rgba(77, 49, 23, 1);
+        text-align: center;
+        margin-top: 30px;
+        font: 400 48px Darling Coffee, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .adopt-a-pet-2 {
+          margin-top: 40px;
+          font-size: 40px;
+        }
+      }
+      .div-4 {
+        width: 100%;
+        max-width: 1156px;
+        margin: 49px 0 0 14px;
+      }
+      @media (max-width: 991px) {
+        .div-4 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .div-5 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-5 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-7 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 56%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-7 {
+          width: 100%;
+        }
+      }
+      .welcome-to-paw-worlds-adoption-center-where-you-can-find-your-new-best-friend-our-adoption-process-is-designed-to-match-animals-with-caring-families-ensuring-a-lifelong-bond-of-love-and-companionship-whether-youre-looking-for-a-playful-kitten-a-loyal-canine-companion-or-a-small-critter-to-brighten-your-days-we-have-a-variety-of-animals-waiting-to-meet-you-every-adoption-at-paw-world-is-a-celebration-of-hope-and-second-chances-each-pet-has-been-lovingly-cared-for-vaccinated-and-assessed-for-temperament-to-ensure-they-fit-seamlessly-into-your-home-our-dedicated-team-is-here-to-guide-you-through-the-adoption-process-providing-support-and-resources-every-step-of-the-way-join-us-in-making-a-difference-by-adopting-from-paw-world-you-not-only-gain-a-loving-pet-but-also-give-an-animal-in-need-the-chance-to-thrive-in-a-forever-home-explore-our-adoptable-pets-and-start-your-journey-towards-unconditional-love-today {
+        color: var(--Color, #4d3117);
+        align-self: stretch;
+        margin: auto 0;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .welcome-to-paw-worlds-adoption-center-where-you-can-find-your-new-best-friend-our-adoption-process-is-designed-to-match-animals-with-caring-families-ensuring-a-lifelong-bond-of-love-and-companionship-whether-youre-looking-for-a-playful-kitten-a-loyal-canine-companion-or-a-small-critter-to-brighten-your-days-we-have-a-variety-of-animals-waiting-to-meet-you-every-adoption-at-paw-world-is-a-celebration-of-hope-and-second-chances-each-pet-has-been-lovingly-cared-for-vaccinated-and-assessed-for-temperament-to-ensure-they-fit-seamlessly-into-your-home-our-dedicated-team-is-here-to-guide-you-through-the-adoption-process-providing-support-and-resources-every-step-of-the-way-join-us-in-making-a-difference-by-adopting-from-paw-world-you-not-only-gain-a-loving-pet-but-also-give-an-animal-in-need-the-chance-to-thrive-in-a-forever-home-explore-our-adoptable-pets-and-start-your-journey-towards-unconditional-love-today {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .column-8 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 44%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-8 {
+          width: 100%;
+        }
+      }
+      .img-2 {
+        aspect-ratio: 1;
+        object-fit: contain;
+        object-position: center;
+        width: 100%;
+        border-radius: 50%;
+      }
+      @media (max-width: 991px) {
+        .img-2 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .div-6 {
+        display: flex;
+        margin-top: 63px;
+        width: 100%;
+        max-width: 1258px;
+        align-items: center;
+        gap: 20px;
+        color: var(--Color, #4d3117);
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+      @media (max-width: 991px) {
+        .div-6 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .img-3 {
+        aspect-ratio: 0.64;
+        object-fit: contain;
+        object-position: center;
+        width: 3%;
+        align-self: stretch;
+        margin: auto 0;
+      }
+      .div-7 {
+        border-radius: 119px;
+        background-color: rgba(255, 229, 229, 1);
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        padding: 64px 0 105px 43px;
+        width: 85%;
+      }
+      @media (max-width: 991px) {
+        .div-7 {
+          max-width: 100%;
+          padding-bottom: 100px;
+        }
+      }
+      .please-think-before-you-leap {
+        align-self: center;
+        font: 400 24px Darling Coffee, sans-serif;
+      }
+      .adopting-a-pet-is-a-big-decision-that-requires-careful-consideration-while-sharing-your-home-with-a-pet-can-bring-immense-joy-it-also-demands-time-money-and-commitment-things-to-consider-before-adopting-why-do-you-want-a-pet-ensure-your-reasons-are-well-thought-out-pets-can-live-10-20-years-so-its-a-long-term-commitment-do-you-have-time-pets-need-daily-care-including-feeding-exercise-and-companionship-can-you-afford-it-veterinary-care-food-and-other-expenses-can-add-up-are-you-prepared-for-challenges-pets-may-cause-damage-or-require-unexpected-medical-care-is-your-home-pet-friendly-check-for-any-pet-restrictions-in-your-living-arrangements-is-it-the-right-time-consider-your-current-life-stage-and-responsibilities-who-will-care-for-your-pet-when-youre-away-have-a-plan-for-vacations-or-emergencies-will-you-be-responsible-provide-love-companionship-exercise-and-regular-veterinary-care-lifetime-commitment-be-ready-to-care-for-the-pet-throughout-its-life {
+        margin-top: 29px;
+        font: 500 16px/24px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .adopting-a-pet-is-a-big-decision-that-requires-careful-consideration-while-sharing-your-home-with-a-pet-can-bring-immense-joy-it-also-demands-time-money-and-commitment-things-to-consider-before-adopting-why-do-you-want-a-pet-ensure-your-reasons-are-well-thought-out-pets-can-live-10-20-years-so-its-a-long-term-commitment-do-you-have-time-pets-need-daily-care-including-feeding-exercise-and-companionship-can-you-afford-it-veterinary-care-food-and-other-expenses-can-add-up-are-you-prepared-for-challenges-pets-may-cause-damage-or-require-unexpected-medical-care-is-your-home-pet-friendly-check-for-any-pet-restrictions-in-your-living-arrangements-is-it-the-right-time-consider-your-current-life-stage-and-responsibilities-who-will-care-for-your-pet-when-youre-away-have-a-plan-for-vacations-or-emergencies-will-you-be-responsible-provide-love-companionship-exercise-and-regular-veterinary-care-lifetime-commitment-be-ready-to-care-for-the-pet-throughout-its-life {
+          max-width: 100%;
+          margin-right: -14px;
+        }
+      }
+      .img-4 {
+        aspect-ratio: 0.64;
+        object-fit: contain;
+        object-position: center;
+        width: 3%;
+        align-self: stretch;
+        margin: auto 0;
+      }
+      .div-8 {
+        display: flex;
+        margin-top: 80px;
+        width: 952px;
+        max-width: 100%;
+        gap: 20px;
+        color: var(--Color, #4d3117);
+        white-space: nowrap;
+        text-align: right;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        font: 700 20px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-8 {
+          margin-top: 40px;
+          white-space: initial;
+        }
+      }
+      .div-9 {
+        border-radius: 47px;
+        background-color: rgba(255, 191, 191, 1);
+        display: flex;
+        padding-left: 39px;
+        gap: 32px;
+      }
+      @media (max-width: 991px) {
+        .div-9 {
+          white-space: initial;
+        }
+      }
+      .cat {
+        margin: auto 0;
+      }
+      .dog {
+        border-radius: 0px 27px 27px 0px;
+        background-color: rgba(168, 223, 142, 1);
+        padding: 14px 37px;
+      }
+      @media (max-width: 991px) {
+        .dog {
+          white-space: initial;
+          padding: 0 20px;
+        }
+      }
+      .div-10 {
+        border-radius: 65px;
+        background-color: rgba(168, 223, 142, 1);
+        display: flex;
+        gap: 6px;
+        padding: 14px 25px;
+      }
+      @media (max-width: 991px) {
+        .div-10 {
+          white-space: initial;
+          padding: 0 20px;
+        }
+      }
+      .gender {
+        flex-grow: 1;
+      }
+      .img-5 {
+        aspect-ratio: 2;
+        object-fit: contain;
+        object-position: center;
+        width: 12px;
+        margin: auto 0;
+      }
+      .catagory {
+        border-radius: 57px;
+        background-color: rgba(255, 191, 191, 1);
+        padding: 14px 24px;
+      }
+      @media (max-width: 991px) {
+        .catagory {
+          white-space: initial;
+          padding: 0 20px;
+        }
+      }
+      .search {
+        border-radius: 100px;
+        background-color: rgba(243, 253, 232, 1);
+        padding: 14px 25px;
+        border: 4px solid rgba(255, 191, 191, 1);
+      }
+      @media (max-width: 991px) {
+        .search {
+          white-space: initial;
+          padding: 0 20px;
+        }
+      }
+      .div-11 {
+        margin-top: 64px;
+        width: 100%;
+        max-width: 1050px;
+      }
+      @media (max-width: 991px) {
+        .div-11 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .div-12 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-12 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-9 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 33%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-9 {
+          width: 100%;
+        }
+      }
+      .div-13 {
+        display: flex;
+        flex-direction: column;
+        border-radius: 50%;
+        position: relative;
+        aspect-ratio: 0.944;
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        text-align: center;
+        padding: 265px 51px 7px;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-13 {
+          margin-top: 40px;
+          padding: 100px 20px 0;
+        }
+      }
+      .img-6 {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .adopt-imkea {
+        position: relative;
+        background-color: rgba(255, 229, 229, 1);
+        padding: 13px 53px 21px;
+      }
+      @media (max-width: 991px) {
+        .adopt-imkea {
+          padding: 0 20px;
+        }
+      }
+      .column-10 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 33%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-10 {
+          width: 100%;
+        }
+      }
+      .div-14 {
+        display: flex;
+        flex-direction: column;
+        border-radius: 50%;
+        position: relative;
+        aspect-ratio: 0.944;
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        text-align: right;
+        padding: 264px 52px 8px;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-14 {
+          margin-top: 40px;
+          padding: 100px 20px 0;
+        }
+      }
+      .img-7 {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .adopt-walker {
+        position: relative;
+        background-color: rgba(255, 229, 229, 1);
+        padding: 13px 57px 21px;
+      }
+      @media (max-width: 991px) {
+        .adopt-walker {
+          padding: 0 20px;
+        }
+      }
+      .column-11 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 33%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-11 {
+          width: 100%;
+        }
+      }
+      .div-15 {
+        display: flex;
+        flex-direction: column;
+        border-radius: 50%;
+        position: relative;
+        aspect-ratio: 0.944;
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        text-align: right;
+        padding: 263px 57px 9px;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-15 {
+          margin-top: 40px;
+          padding: 100px 20px 0;
+        }
+      }
+      .img-8 {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .adopt-banthai {
+        position: relative;
+        background-color: rgba(255, 229, 229, 1);
+        padding: 13px 55px 21px;
+      }
+      @media (max-width: 991px) {
+        .adopt-banthai {
+          padding: 0 20px;
+        }
+      }
+      .div-16 {
+        margin-top: 60px;
+        width: 100%;
+        max-width: 1049px;
+      }
+      @media (max-width: 991px) {
+        .div-16 {
+          max-width: 100%;
+          margin-top: 40px;
+        }
+      }
+      .div-17 {
+        gap: 20px;
+        display: flex;
+      }
+      @media (max-width: 991px) {
+        .div-17 {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0px;
+        }
+      }
+      .column-12 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 33%;
+        margin-left: 0px;
+      }
+      @media (max-width: 991px) {
+        .column-12 {
+          width: 100%;
+        }
+      }
+      .div-18 {
+        display: flex;
+        flex-direction: column;
+        border-radius: 50%;
+        position: relative;
+        aspect-ratio: 0.938;
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        text-align: right;
+        padding: 256px 52px 17px;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-18 {
+          margin-top: 40px;
+          padding: 100px 20px 0;
+        }
+      }
+      .img-9 {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .adopt-potato {
+        position: relative;
+        background-color: rgba(255, 229, 229, 1);
+        padding: 13px 56px 21px;
+      }
+      @media (max-width: 991px) {
+        .adopt-potato {
+          padding: 0 20px;
+        }
+      }
+      .column-13 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 33%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-13 {
+          width: 100%;
+        }
+      }
+      .div-19 {
+        display: flex;
+        flex-direction: column;
+        border-radius: 50%;
+        position: relative;
+        aspect-ratio: 0.938;
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        text-align: right;
+        padding: 255px 54px 18px;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-19 {
+          margin-top: 40px;
+          padding: 100px 20px 0;
+        }
+      }
+      .img-10 {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .adopt-nana {
+        position: relative;
+        background-color: rgba(255, 229, 229, 1);
+        padding: 13px 61px 21px;
+      }
+      @media (max-width: 991px) {
+        .adopt-nana {
+          padding: 0 20px;
+        }
+      }
+      .column-14 {
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        width: 33%;
+        margin-left: 20px;
+      }
+      @media (max-width: 991px) {
+        .column-14 {
+          width: 100%;
+        }
+      }
+      .div-20 {
+        display: flex;
+        flex-direction: column;
+        border-radius: 50%;
+        position: relative;
+        aspect-ratio: 0.941;
+        flex-grow: 1;
+        color: var(--Color, #4d3117);
+        text-align: right;
+        padding: 254px 59px 19px;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-20 {
+          margin-top: 40px;
+          padding: 100px 20px 0;
+        }
+      }
+      .img-11 {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      .adopt-bell {
+        position: relative;
+        background-color: rgba(255, 229, 229, 1);
+        padding: 13px 60px 21px;
+      }
+      @media (max-width: 991px) {
+        .adopt-bell {
+          padding: 0 20px;
+        }
+      }
+      .div-21 {
+        border-radius: 47px;
+        background-color: rgba(255, 229, 229, 1);
+        display: flex;
+        margin-top: 83px;
+        width: 199px;
+        max-width: 100%;
+        padding-left: 40px;
+        gap: 20px;
+        color: var(--Color, #4d3117);
+        white-space: nowrap;
+        text-align: right;
+        justify-content: space-between;
+        font: 500 16px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-21 {
+          padding-left: 20px;
+          margin-top: 40px;
+          white-space: initial;
+        }
+      }
+      .div-22 {
+        background-color: rgba(168, 223, 142, 1);
+        align-self: stretch;
+        display: flex;
+        margin-top: 258px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        color: rgba(0, 0, 0, 1);
+        text-align: center;
+        padding: 41px 70px 22px;
+        font: 400 20px Inter, sans-serif;
+      }
+      @media (max-width: 991px) {
+        .div-22 {
+          max-width: 100%;
+          margin-top: 40px;
+          padding: 0 20px;
+        }
+      }
+      .div-23 {
+        display: flex;
+        width: 100%;
+        max-width: 989px;
+        gap: 40px 98px;
+        flex-wrap: wrap;
+      }
+      @media (max-width: 991px) {
+        .div-23 {
+          max-width: 100%;
+        }
+      }
+      .div-24 {
+        align-self: start;
+        display: flex;
+        gap: 40px 64px;
+        flex-grow: 1;
+        flex-basis: auto;
+      }
+      @media (max-width: 991px) {
+        .div-24 {
+          max-width: 100%;
+        }
+      }
+      .div-25 {
+        display: flex;
+        gap: 40px 42px;
+        flex-grow: 1;
+        flex-basis: auto;
+      }
+      .get-involved {
+        align-self: start;
+        flex-basis: auto;
+      }
+      .div-26 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        white-space: nowrap;
+      }
+      @media (max-width: 991px) {
+        .div-26 {
+          white-space: initial;
+        }
+      }
+      .pawworld-gmail-com {
+        align-self: stretch;
+        margin-top: 24px;
+      }
